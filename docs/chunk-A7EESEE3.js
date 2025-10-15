@@ -1,0 +1,1 @@
+import{_a as a}from"./chunk-TQGWX7UN.js";import"./chunk-QGXACWGO.js";var t=class e{static \u0275fac=function(n){return new(n||e)};static \u0275cmp=a({type:e,selectors:[["app-blank"]],decls:0,vars:0,template:function(n,s){},encapsulation:2})};export{t as Blank};
